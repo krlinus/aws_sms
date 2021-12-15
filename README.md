@@ -23,4 +23,5 @@ Some configuration options
 - max time to be spent on a message
 - failure records to go to what DB - the particulars of the DB
 - In short, explore all aspects of the API and pull up all ways to explode the scenarios and bring them under configuration. This project will tend to blow up in complexity, but keep interfaces simple to use.
-- 
+
+
