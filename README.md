@@ -1,12 +1,12 @@
 # aws_sms
-Write a layer fir aws sms API
+Write a layer for aws sms API
 
 Complete solution in Java for sending emails using SMS/Pinpoint
 
 Aim of this project is to create a layer on top of AWS SMS API, that will:
 
-pick up the SMS configuration from a file
-send SMS
+- pick up the SMS configuration from a file
+- send SMS
 - check status of the delivery
 - do necessary follow-up action such as retry
 - provide a way to configure the follow-up action
